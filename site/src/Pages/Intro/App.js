@@ -5,6 +5,7 @@ import './App.css';
 function Intro() {
   return (
     <div className="App">
+      Intro Page
     </div>
   );
 }
