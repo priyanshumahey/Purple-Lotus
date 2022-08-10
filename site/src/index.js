@@ -1,10 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Intro from './Pages/Intro/App';
-import Homepage from './Pages/Home/Home';
+
 import reportWebVitals from './reportWebVitals';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
+
+import Intro from './Pages/Intro/App';
+import Homepage from './Pages/Home/Home';
 
 // Project Organization
 // - Intro Screen
