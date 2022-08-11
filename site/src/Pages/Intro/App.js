@@ -13,7 +13,7 @@ import { Link } from 'react-router-dom';
 
 
 function Intro() {
-  const [showlogin, setshowlogin] = useState(true);
+  const [showlogin, setshowlogin] = useState(false);
 
   const changeShow = () => {
     setshowlogin(!showlogin)
@@ -21,11 +21,13 @@ function Intro() {
 
   return (
     <div className="App">
-      {showlogin && <p>Hello</p>}
-      <Link to="/"><button onClick={changeShow}>Here</button></Link>
-      <Link to="/Home"><button>Homepage</button></Link>
+      {showlogin || <Link to="/" textDecoration="none"><p class="button-51 center" role="button" onClick={changeShow}>Start!</p></Link>}
+      <div>
+        {showlogin && <Link to="/Home"><button>Begin your journey</button></Link>}
+      </div>
     </div>
   );
 }
+
 
 export default Intro;
