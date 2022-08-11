@@ -10,8 +10,6 @@ import { Link } from 'react-router-dom';
 //It starts by showing a small simple animation matched with a friendly sound
 //Then it goes into a screen with parents, children and therapists (homepage)
 
-
-
 function Intro() {
   const [showlogin, setshowlogin] = useState(false);
 
@@ -21,9 +19,15 @@ function Intro() {
 
   return (
     <div className="App">
-      {showlogin || <Link to="/" textDecoration="none"><p class="button-51 center" role="button" onClick={changeShow}>Start!</p></Link>}
+      {showlogin || <p className="button-51 center" role="button" onClick={changeShow} mTop='30%'>Start!</p>}
       <div>
-        {showlogin && <Link to="/Home"><button>Begin your journey</button></Link>}
+        {/* showlogin || (PUT LOGO HERE) /> */}
+      </div>
+      <div>
+        {showlogin && <p className="start-text">Hello! Welcome to Project Lotus! Project Lotus is still early in on development.
+          Currently, this is a demo we've created to allow our vision to be seen.
+        </p>}
+        {showlogin && <Link to="/Home"><button className="button-51 center" role="button" marginTop='10% !important'>Begin your journey</button></Link>}
       </div>
     </div>
   );
