@@ -1,0 +1,27 @@
+.Main {
+    justify-content: center;
+    margin-top: 30vh;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4vh;
+    font-family: "Avenir Next LT W01 Bold",sans-serif;
+    font-weight: 700;
+}
+
+.Choice-box {
+    width: 25vh;
+    height: 25vh;
+    line-height: 25vh;
+    margin: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: rgb(177, 135, 231);
+    display: inline-block; 
+    font-family: "Avenir Next LT W01 Bold",sans-serif;
+    font-size: 3vh;
+    text-align: center;
+    border-radius: 4vh;
+    font-weight: 700;
+}
