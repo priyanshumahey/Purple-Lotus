@@ -7,6 +7,9 @@ import { Routes, Route, BrowserRouter } from 'react-router-dom';
 
 import Intro from './Pages/Intro/App';
 import Homepage from './Pages/Home/Home';
+import Parents from './Pages/Parent/Parent';
+import Child from './Pages/Child/Child';
+import Therapist from './Pages/Therapy/Therapist';
 
 // Project Organization
 // - Intro Screen
@@ -24,9 +27,9 @@ root.render(
       <Route path="/" element={<Intro />} />
       {/* <Route path="/Settings" element={<Settings />} /> */}
       <Route path="/Home" element={<Homepage />} />
-      {/* <Route path="/ForParents" element={<Parents />} /> */}
-      {/* <Route path="/ForChild" element={<Child />} /> */}
-      {/* <Route path="/ForTherapist" element={<Therapist />} /> */}
+      <Route path="/ForParents" element={<Parents />} />
+      <Route path="/ForChild" element={<Child />} />
+      <Route path="/ForTherapist" element={<Therapist />} />
     </Routes>
   </BrowserRouter>
 );
