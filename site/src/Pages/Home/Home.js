@@ -1,14 +1,27 @@
 import { Link } from 'react-router-dom';
+import './home.css';
 
 function Homepage() {
     return (
-      <>
-      <h1>
-        Homepage
-      </h1>
-      <Link to="/"><button>Intro</button></Link>
-      </>
-      
+      <div className='Main'>
+        <h1>Choose your pathway</h1>
+        <Link to="/ForParents">
+          <div className="Choice-box" id="1">
+          For Parents    
+        </div>
+        </Link>
+        <Link to="/ForChild">
+        <div className="Choice-box" id="2">
+          For Children    
+        </div>
+        </Link>
+        <Link to="/ForTherapist">
+        <div className="Choice-box" id="3"> 
+          For Therapists       
+        </div>
+        </Link>
+      </div>
     );
   }
+
 export default Homepage;
