@@ -10,9 +10,9 @@ function Homepage() {
           For Parents    
         </div>
         </Link>
-        <Link to="/ForChild">
+        <Link to="/ForYouth">
         <div className="Choice-box" id="2">
-          For Children    
+          For Youth    
         </div>
         </Link>
         <Link to="/ForTherapist">

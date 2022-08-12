@@ -28,7 +28,7 @@ root.render(
       {/* <Route path="/Settings" element={<Settings />} /> */}
       <Route path="/Home" element={<Homepage />} />
       <Route path="/ForParents" element={<Parents />} />
-      <Route path="/ForChild" element={<Child />} />
+      <Route path="/ForYouth" element={<Child />} />
       <Route path="/ForTherapist" element={<Therapist />} />
     </Routes>
   </BrowserRouter>
