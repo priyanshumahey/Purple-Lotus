@@ -17,8 +17,9 @@ Hello! Welcome to topic 1! Name and identity are an important part of everyone's
 2. The importance of name
 3. The dual name citizenship
 4. Forgoing your name
-5. The consequences of name
-6. Immigrant experiences with name
+5. Immigrant experiences with name
+6. Overview of mental wellness associated with name
+7. Learning to accept your name
 
 ### How you were given your name
 Names are a highly sacred thing in many cultures. In Chinese culture, names are special. Chinese families typically use two or more different syllables from the Chinese alphabet. They can then be combined and manipulated to create a highly unique and special name. This varies throughout different parts of China as there exists a large amount of diversity between the cultural groups and traditions in China.
@@ -33,16 +34,38 @@ Chinese names are often unisex and are not often gendered unlike how many names 
 
 ### The importance of names
 
+Names are important as they give us a sense of individuality and provide us a sense of who we are. They allow us to establish a sense of belonging and allow us to fit into communities. Having a name that's different from others may make us feel weird or out of place. Names have a lasting impact on a person and people associate themselves strongly with their name. 
 
-Names are important as they give us a sense of individuality and provide us a sense of who we are. They allow us to establish a sense of belonging and allow us to fit into communities. Having a name that's different from others may make us feel weird or out of place.
+As a Child, the importance of names is typically not there and many children get mocked for their unique or different names. When you were much younger, there is a chance that others pointed out that your name was different and this can lead to a feeling of getting "othered". Getting othered is the effect of being made to feel that someone is different from other people around them based on culture, langauge or even name.
+
+
+Explain name based micro-aggressions.
 
 
 
-3. The dual name citizenship
-4. Forgoing your name
-5. The consequences of name
-6. Immigrant experiences with name
+### The dual name citizenship
+For some Chinese people, they may have both a Chinese name and an English name. For some, their Chinese name may be their legal name and their English name may be their preferred name.
 
+
+Shame that comes from ignoring one of their names
+
+### Forgoing your name
+
+
+### Immigrant experiences with name
+
+### Overview of mental wellness associated with name
+Name based micro-aggressions can lead to issues with belonging and feeling part of the community which can then lead to reduced mental wellness.  
+
+
+### Learning to accept your name
+Names are an important part of your identity. Whether you have one of them or two of them, or potentially even more, they are all
 
 
 ## Topic 2: Lunch
+Another impactful topic for many, lunch can be a very concering time. Many Chinese people have had their food called disgusting or smelly. During lunch time, many Chinese youth have experienced bullying for their lunches and this has led many to feel othered and feel ashamed for their food. Sometimes this will lead Chinese youth to go eat their lunches away from others or not even eat their lunch in fear of judgement.
+
+
+## Future goals
+
+Going into the future, we will include more in depth guides on mental health and mental well being.
