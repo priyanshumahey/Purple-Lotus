@@ -29,12 +29,19 @@ The way your parents named you was probably highly dependant on their values and
 
 Chinese names are often unisex and are not often gendered unlike how many names in the West are. Chinese names are versatile and often lack the ability to be gendered. For last names, it is also a bit different from how it is done in the West. In the West, there are a huge variety of last names yet you may notice that Chinese last names tend to show a bit less variety. Surnames in many western regions may actually be derivede from professions or even used to distinguish people who had the same first names but needed to be distinguished between. In China, some surnames are highly common, for instance Wang, Chen and Zhao. Researchers believe this is do to the Galton-Watson process which is leading to name extinction. Rare and unpopular surnames face extinction due to the digital age and the evolving population. There have been numerous issues with needing to change surnames and accounting for the digital age and limited characters. Some surnames that relied on rarer characters may not be able to be digitalized and this can lead to surname extinction. 
 
+ To learn more about your name and come to learn more about yourself, talk to your parents about your names and their names as well. 
+
 ### The importance of names
 
 
-Names are important as they give us a sense of individuality and provide us a sense of who we are. They allow us to establish a sense of belonging and allow us to fit into communities.  
+Names are important as they give us a sense of individuality and provide us a sense of who we are. They allow us to establish a sense of belonging and allow us to fit into communities. Having a name that's different from others may make us feel weird or out of place.
 
 
+
+3. The dual name citizenship
+4. Forgoing your name
+5. The consequences of name
+6. Immigrant experiences with name
 
 
 
