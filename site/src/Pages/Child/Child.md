@@ -16,10 +16,9 @@ Hello! Welcome to topic 1! Name and identity are an important part of everyone's
 1. How you were given your name
 2. The importance of name
 3. The dual name citizenship
-4. Forgoing your name
-5. Immigrant experiences with name
-6. Overview of mental wellness associated with name
-7. Learning to accept your name
+4. Immigrant experiences with name
+5. Overview of mental wellness associated with name
+6. Learning to accept your name
 
 ### How you were given your name
 Names are a highly sacred thing in many cultures. In Chinese culture, names are special. Chinese families typically use two or more different syllables from the Chinese alphabet. They can then be combined and manipulated to create a highly unique and special name. This varies throughout different parts of China as there exists a large amount of diversity between the cultural groups and traditions in China.
@@ -49,9 +48,6 @@ For some Chinese people, they may have both a Chinese name and an English name. 
 
 Shame that comes from ignoring one of their names
 
-### Forgoing your name
-
-
 ### Immigrant experiences with name
 
 ### Overview of mental wellness associated with name
@@ -59,13 +55,16 @@ Name based micro-aggressions can lead to issues with belonging and feeling part 
 
 
 ### Learning to accept your name
-Names are an important part of your identity. Whether you have one of them or two of them, or potentially even more, they are all
+Names are an important part of your identity. Whether you have one of them or two of them, or potentially even more, they are all you. All the names you've ever had are a part of you and you are not lying to anyone when you introduce them with one name instead of another. Ultimately it is up to you to decide what you want other people to call you and you are allowed to always choose a preferred name. 
+
+An important thing to acknowledge is that people do have preferred names. In schools, workplace, with friends and even with family, you are allowed to set the name you would like to be called. While it may at times bring you shame choosing a preferred name over a legal name, realize that many people do create preferred names for themselves and many forms now have options for people to enter in their preferred names. 
 
 
 ## Topic 2: Lunch
 Another impactful topic for many, lunch can be a very concering time. Many Chinese people have had their food called disgusting or smelly. During lunch time, many Chinese youth have experienced bullying for their lunches and this has led many to feel othered and feel ashamed for their food. Sometimes this will lead Chinese youth to go eat their lunches away from others or not even eat their lunch in fear of judgement.
 
+The second module would be focused on walking through the issues brought up with cultural foods during youth. Furthermore, this module will be designed around helping teach tactics about how to get others around you to be more understanding of cultural food.
 
 ## Future goals
 
-Going into the future, we will include more in depth guides on mental health and mental well being.
+Going into the future, we will include more in depth guides on mental health and mental well being. There will be more modules that are centered around understanding mental health from sratch, including basics of how mental well-being works, different sorts of mental illnesses, how to understand your own emotions, etc. 
