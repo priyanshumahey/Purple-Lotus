@@ -27,7 +27,7 @@ function Intro() {
         {showlogin && <p className="start-text">Hello! Welcome to Project Lotus! Project Lotus is still early in on development.
           Currently, this is a demo we've created to allow our vision to be seen.
         </p>}
-        {showlogin && <Link to="/Home"><button className="button-51 center" role="button" marginTop='10% !important'>Begin your journey</button></Link>}
+        {showlogin && <Link to="/Home"><button className="button-51 center" marginTop='10% !important'>Begin your journey</button></Link>}
       </div>
     </div>
   );
