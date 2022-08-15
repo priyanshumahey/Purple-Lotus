@@ -1,0 +1,38 @@
+.main {
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Avenir Next LT W01 Bold",sans-serif;
+}
+.page3{
+    margin-top: -25%;
+}
+
+.pmain {
+    font-family: "Avenir Next LT W01 Bold",sans-serif;
+    font-size: 3vh;
+}
+
+.pmain2 {
+    font-family: "Avenir Next LT W01 Bold",sans-serif;
+    font-size: 2vh;
+
+}
+.Cont {
+    background-color: #e4c4f6;
+    width: 17vh;
+    height: 10vh;
+    border: 0;
+    border-radius: 2vh;;
+    font-weight: 700;
+    font-family: "Avenir Next LT W01 Bold",sans-serif;
+    font-size: 2vh;
+}
+
+.Cont:hover {
+    background-color: rgb(177, 135, 231);
+    color: #fff;
+    width: 17.3vh;
+    height: 10.3vh;
+}
