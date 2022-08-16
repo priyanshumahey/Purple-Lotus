@@ -5,11 +5,9 @@ function Homepage() {
     return (
       <div className='Main'>
         <h1>Choose your pathway</h1>
-        <Link to="/ForParents">
           <div className="Choice-box" id="1">
           For Parents    
         </div>
-        </Link>
         <Link to="/ForYouth">
         <div className="Choice-box" id="2">
           For Youth    
