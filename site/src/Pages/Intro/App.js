@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 //This links to the homepage
-//Starts off showing project lotus logo and a start button
+//Starts off showing purple lotus logo and a start button
 //Start button should lead to login and sign in button
 //For now, it does not show sign up or login
 //It starts by showing a small simple animation matched with a friendly sound
@@ -24,7 +24,7 @@ function Intro() {
         {/* showlogin || (PUT LOGO HERE) /> */}
       </div>
       <div>
-        {showlogin && <p className="start-text">Hello! Welcome to Project Lotus! Project Lotus is still early in on development.
+        {showlogin && <p className="start-text">Hello! Welcome to Purple Lotus! Purple Lotus is still early in on development.
           Currently, this is a demo we've created to allow our vision to be seen.
         </p>}
         {showlogin && <Link to="/Home"><button className="button-51 center" marginTop='10% !important'>Begin your journey</button></Link>}
