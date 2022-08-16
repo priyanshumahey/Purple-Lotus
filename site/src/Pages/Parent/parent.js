@@ -1,7 +1,7 @@
-function Parent () {
+function Parents () {
     return(
         <h1>Parent</h1>
     )
 }
 
-export default Parent;
+export default Parents;
