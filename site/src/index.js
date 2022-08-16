@@ -6,9 +6,10 @@ import reportWebVitals from './reportWebVitals';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
 
 import Intro from './Pages/Intro/App';
-import Homepage from './Pages/Home/Home';
-import Child from './Pages/Child/Child';
-import Therapist from './Pages/Therapy/Therapist';
+import Homepage from './Pages/Home/Home.js';
+import Parents from './Pages/Parent/Parent.js';
+import Child from './Pages/Child/Child.js';
+import Therapist from './Pages/Therapy/Therapist.js';
 
 // Project Organization
 // - Intro Screen
@@ -26,6 +27,7 @@ root.render(
       <Route path="/" element={<Intro />} />
       {/* <Route path="/Settings" element={<Settings />} /> */}
       <Route path="/Home" element={<Homepage />} />
+      <Route path="/ForParents" element={<Parents />} />
       <Route path="/ForYouth" element={<Child />} />
       <Route path="/ForTherapist" element={<Therapist />} />
     </Routes>
