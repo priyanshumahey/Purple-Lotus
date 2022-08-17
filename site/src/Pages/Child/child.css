@@ -5,6 +5,12 @@
     margin-right: 20%;
     font-family: "Avenir Next LT W01 Bold",sans-serif;
 }
+
+.prototype {
+    text-align: left !important;
+    margin-top: -10% !important;
+}
+
 .page3{
     margin-top: -25%;
 }

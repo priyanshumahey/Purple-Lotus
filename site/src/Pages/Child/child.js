@@ -95,9 +95,73 @@ function Child () {
         }
         {
            screen3  && 
-           <>
-           <h1>prototype</h1>
-           </>
+           <div className='prototype'>
+           <h1>For Youth</h1>
+           <h2>Preface</h2>
+           <p>
+                These modules are still early in development! This current build is primarily 
+                for demonstration purposes and proof of concept! The current build is a stable 
+                build missing core features which will be present further on down the line. 
+                For now, feel free to explore the current version and enjoy the demo! 
+                The demo version only demonstrates Chinese Canadian youth and only has support
+                for English and Mandarin. Future versions will include further language support, 
+                further culture support as well as more accessibility options and continued 
+                support for various groups.
+            </p>
+            <h2>Overview</h2>
+            <p>
+                This module is focused on Chinese Canadian youth. This is meant to be a 
+                self-help module/guide built off of the shoulders of other Chinese 
+                Canadians to help walk through the commonly encountered mental health issues. 
+                <br />
+                <br></br>
+                This demo goes over 2 main topics. Feel free to pick and choose based on 
+                which one is most relevant to you.
+                <ol>
+                    <li>Topic 1 will consist of going over the topic of name and identity.</li>
+                    <li>Topic 2 will go over the topic of food and lunches.</li>
+                </ol>
+            </p>
+            <h2>Topic 1: Name and Identity</h2>
+            <p>
+            Hello! Welcome to topic 1! Name and identity are an important part of everyone's character 
+            and are highly important. For name and identity, this module will cover the following:
+            <ol>
+                <li>How you were given your name</li>
+                <li>The importance of name</li>
+                <li>The dual name citizenship</li>
+                <li>Immigrant experiences with name</li>
+                <li>Overview of mental wellness associated with name</li>
+                <li>Learning to accept your name</li>
+            </ol>
+            </p>
+
+
+            
+
+            <h2>Topic 2: Lunch</h2>
+            <p>
+                Another impactful topic for many, lunch can be a very concerning  time. 
+                Many Chinese people have had their food called disgusting or smelly. 
+                During lunch time, many Chinese youth have experienced bullying for 
+                their lunches and this has led many to feel othered and feel ashamed for 
+                their food. Sometimes this will lead Chinese youth to go eat their lunches 
+                away from others or not even eat their lunch in fear of judgment.
+                <br />
+                <br></br>
+                The second module would be focused on walking through the issues 
+                brought up with cultural foods during youth. Furthermore, this module 
+                will be designed around helping teach tactics about how to get others 
+                around you to be more understanding of cultural food.
+            </p>
+            <h2>Future goals</h2>
+            <p>
+                Going into the future, we will include more in depth guides on mental health and 
+                mental well being. There will be more modules that are centered around understanding
+                mental health from scratch, including basics of how mental well-being works, 
+                different sorts of mental illnesses, how to understand your own emotions, etc. 
+            </p>
+           </div>
         }
         </div>
     )
