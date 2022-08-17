@@ -14,6 +14,27 @@
   color: white;
 }
 
+img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.break {
+  margin-top:10%;
+}
+
+.Logo {
+  width: auto; 
+  height: auto; 
+  max-width: 346px;
+  max-height: 277px;
+}
+
+.Title{
+  margin-bottom: -25%;
+}
+
 .button-51 {
   margin: auto;
   margin-top: 30%;

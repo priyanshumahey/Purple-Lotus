@@ -2,6 +2,7 @@
 import './App.css';
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import logo from './Logo.png'
 
 //This links to the homepage
 //Starts off showing purple lotus logo and a start button
@@ -19,10 +20,14 @@ function Intro() {
 
   return (
     <div className="App">
-      {showlogin || <p className="button-51 center" role="button" onClick={changeShow} mTop='30%'>Start!</p>}
-      <div>
-        {/* showlogin || (PUT LOGO HERE) /> */}
-      </div>
+      {showlogin || 
+      <>
+      <div className="break"></div>
+      <img src={logo} alt="Purple Lotus Logo" className="logo"/>
+      <h1 className="Title">Purple Lotus</h1>
+      <p className="button-51 center" role="button" onClick={changeShow}>Start!</p>
+      </>
+      }
       <div>
         {showlogin && <p className="start-text">Hello! Welcome to Purple Lotus! Purple Lotus is still early in on development.
           Currently, this is a demo we've created to allow our vision to be seen.
