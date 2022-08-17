@@ -7,8 +7,8 @@ import { Routes, Route, BrowserRouter } from 'react-router-dom';
 
 import Intro from './Pages/Intro/App';
 import Homepage from './Pages/Home/Home.js';
-import Parents from './Pages/Parent/Parent.js';
-import Child from './Pages/Child/Child.js';
+import Parents from './Pages/Parent/parent.js';
+import Child from './Pages/Child/child.js';
 import Therapist from './Pages/Therapy/Therapist.js';
 
 // Project Organization

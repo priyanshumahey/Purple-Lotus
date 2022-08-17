@@ -6,4 +6,4 @@ These modules are still early in development! This current build is primarily fo
 ## Overview
 This module would go over the issues parents may face in understanding mental health. It will start off explaining mental health terminology in a comprehensive and easy to understand method. It will also include in information that youth may face that parents may not be aware of.
 
-The for parents side will also discuss therapy and will also include information about the mental health of the parents themselves to get them to consider their own wellbeing. This page will include more information, videos and there will be more language options present in this page. It will be designed in a way to reduce stigma and increase the parents understanding of 
+The for parents side will also discuss therapy and will also include information about the mental health of the parents themselves to get them to consider their own wellbeing. This page will include more information, videos and there will be more language options present in this page. It will be designed in a way to reduce stigma and increase the parents understanding of mental well being.
