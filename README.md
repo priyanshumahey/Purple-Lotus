@@ -1,10 +1,5 @@
 # Purple Lotus
-Project Lotus is a mental health website/desktop app focused around education.
-It targets the AAPI community with an approach deeply rooted in psychology.
-Project Lotus is currently in the early phase and is being built with React. 
-The desktop app uses electron to build another easily accessible offline option.
-
-Project Lotus is designed to assist in AAPI adults, AAPI children as well as therapists aiming to assist AAPI persons.
+Purple Lotus is a project created to help with mental well being of the Asian Canadian community. This project is designed to be a community based therapy approach that is designed to help Asian Canadians deal with cultural issues. This is the current prototype build. Test out the site and look at the site to see what it could look like.
 
 
 
