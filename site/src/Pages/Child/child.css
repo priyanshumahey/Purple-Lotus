@@ -4,15 +4,18 @@
     margin-left: 20%;
     margin-right: 20%;
     font-family: "Avenir Next LT W01 Bold",sans-serif;
+    font-size:large;
 }
 
 .prototype {
     text-align: left !important;
-    margin-top: -10% !important;
+    margin-top: -20% !important;
+    margin-bottom: 5%;
 }
 
 .page3{
     margin-top: -25%;
+    text-align: left !important;
 }
 
 .pmain {

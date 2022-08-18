@@ -91,6 +91,10 @@ function Child () {
 
             <br></br>
            <button className='Cont' onClick={screenChange2}>Continue</button>
+           <br />
+            <br></br>
+            <br></br>
+            <br></br>
            </div>
         }
         {
@@ -107,6 +111,9 @@ function Child () {
                 for English and Mandarin. Future versions will include further language support, 
                 further culture support as well as more accessibility options and continued 
                 support for various groups.
+                <br />
+                <br></br>
+                <strong>This prototype is still in work and only demonstrates what is possible.</strong>
             </p>
             <h2>Overview</h2>
             <p>
@@ -135,10 +142,138 @@ function Child () {
                 <li>Learning to accept your name</li>
             </ol>
             </p>
-
-
-            
-
+            <h3>1. How you were given your name</h3>
+            <p>
+                Names are a highly sacred thing in many cultures. In Chinese culture, names are special. 
+                Chinese families typically use two or more different syllables from the Chinese alphabet. 
+                They can then be combined and manipulated to create a highly unique and special name. 
+                This varies throughout different parts of China as there exists a large amount of 
+                diversity between the cultural groups and traditions in China.
+                <br />
+                <br></br>
+                Parents may often name their children based on wishes for their children, for instance names 
+                that include the terms for beauty, grace, and fortune.
+                <br />
+                <br></br> 
+                The way your parents named you was probably highly dependent on their values and the way 
+                that they were raised. If you don't know, go ahead and ask them about how they named you! 
+                Names are an important part of understanding yourself and your parents would definitely 
+                love to tell you more about how you were named! It's also a good bonding activity to 
+                understand why they decided your name to be what it is.
+                <br />
+                <br></br> 
+                Chinese names are often unisex and are not often gendered unlike how many names in the 
+                West are. Chinese names are versatile and often lack the ability to be gendered. 
+                For last names, it is also a bit different from how it is done in the West. 
+                In the West, there are a huge variety of last names yet you may notice that Chinese 
+                last names tend to show a bit less variety. Surnames in many western regions may 
+                actually be derived from professions or even used to distinguish people who had the 
+                same first names but needed to be distinguished between. 
+                In China, some surnames are highly common, for instance Wang, Chen and Zhao. 
+                Researchers believe this is due to the Galton-Watson process which is leading to name extinction. 
+                Rare and unpopular surnames face extinction due to the digital age and the evolving population.
+                 There have been numerous issues with needing to change surnames and accounting for the digital age and 
+                limited characters. Some surnames that relied on rarer characters may not be able to be 
+                digitalized and this can lead to surname extinction.
+                <br />
+                <br></br> 
+                To learn more about your name and come to learn more about yourself, talk to your parents about your names and their names as well.
+            </p>
+            <h3>2. The importance of name</h3>
+            <p>
+                Names are important as they give us a sense of individuality and provide us a sense of who we are. 
+                They allow us to establish a sense of belonging and allow us to fit into communities. 
+                Having a name that's different from others may make us feel weird or out of place. Names have a lasting 
+                impact on a person and people associate themselves strongly with their name.
+                <br />
+                <br></br> 
+                As a Child, the importance of names is typically not there and many children get mocked for their unique or 
+                different names. When you were much younger, there is a chance that others pointed out that your name was 
+                different and this can lead to a feeling of getting "othered". Getting othered is the effect of being made 
+                to feel that someone is different from other people around them based on culture, language or even name.
+                <br />
+                <br></br> 
+                Name based microaggressions are described as mispronouncing someone's name, assigning them with a different name to 
+                make when it's unwanted, making fun of a name, etc. These situations can all affect the mental well-being of a person by 
+                leading to negative thoughts about their name, culture and identity. It is important to pronounce someone's name and 
+                place respect on their name. It is an important part of identity. Remember that you deserve to choose the name you'd 
+                like to be called and you deserve to have your name pronounced right. No one is allowed to give you a nickname you 
+                don't like simply because they cannot say your name correctly.
+                <br />
+                <br></br> 
+                To pronounce other people's name, the best way to do it is practice until you get it right. It might take some time but 
+                repeat it right after you've learnt it to better understand the pronunciation. When other people pronounce your name 
+                wrong, it is important to correct them every time they do in order to make sure they actually learn your name properly. 
+                One way to help people to better pronounce your name is to spell it out phonetically or even use an online tool to help 
+                you with that.
+                <br />
+                <br></br> 
+                Holding names to white, Eurocentric, American standards causes deep harm. It leads to people wanting to change their 
+                name or even wishing they were a different identity. This is due to a deep desire to fit in and not want to feel like an 
+                alien in the place you currently reside and are looking to belong. It can make you feel like an outsider in your own 
+                community and that lack of inclusivity has a truly negative impact on your well-being.
+            </p>
+            <h3>3. The dual name citizenship</h3>
+            <p>
+                For some Chinese people, they may have both a Chinese name and an English name. For some, their Chinese name may be their legal 
+                name and their English name may be their preferred name or vice versa. Either way, just remember that both names belong to you and you 
+                get to choose which one you'd like to be called. It can be hard knowing which name to go by as you may feel like some may 
+                belittle you for going by your Chinese name or you feel shameful taking your English name and feel like you're forgoing your 
+                Chinese name and background. 
+                <br />
+                <br></br> 
+                A lot of people report feeling shame for not going by their Chinese name as they feel they are leaving behind their identity 
+                and this causes them much mental turmoil. This can lead to identity issues. For proper mental well being, it is fairly 
+                important to understand the way you feel about your own name. If you want to get more used to specific names, exposure therapy can be 
+                really helpful. Try to get your parents to call you by the name you want and not the name you feel you should have due to external 
+                pressures. Preferred names are more common here in the west and it is completely ok to choose your name. 
+            </p>
+            <h3>4. Immigrant experiences with name</h3>
+            <p>
+                For immigrants, name related isues are fairly abundant. For some, changing their name is simply a part of the immigration process
+                and can be seen as a neccessary sacrafice to be made in order to honor the efforts and time spent moving to another country. For others,
+                their names might be highly important as it connects them to their culture or to their homeland. For some, translating their name into English
+                can cause friction and may not translate well. Especially moving to new places and not knowing what it will be like, it can very scary. For new
+                immigrants, it may be instinct to change their name in fear of being othered and not fitting in. For parents, it may be instinct to change their 
+                children's name or create nicknames for them in order to fit in better.
+                <br />
+                <br></br> 
+                One important thing new immigrants can do is associate themselves with people similar to them. For new Chinese immigrants, it may be hugely
+                benefical to find the local Chinese community in order to better fit in and make friends that will be able to understand you and connect with you.
+                There may be a fear of associating too much with the Chinese community and a fear of feeling othered but it is important to remember that you can associate
+                with multiple groups.
+                <br />
+                <br></br>
+                Another important thing to be highly considerate about as youth is the impact of immigration on parents. While the lives of a youth may be changed during 
+                immigration, remember that parents had to often leave a lot more behind, very often, coming here with no job or anything else lined up. It is a good idea to 
+                be considerate about their experiences. A good bonding activity would be to ask your parents on how they felt about moving to Canada and how they experineced 
+                the change in identity. If they changed their name, asked them about why they did and how it made them feel.
+            </p>
+            <h3>5. Overview of mental wellness associated with name</h3>
+            <p>
+                The biggest issues that come out of names can be the feelings of being excluded from a group or feel like you are not included in a community. Names
+                can be very important for fitting in and it can feel horrible being among a group of people who may not even be able to pronounce your name properly. 
+                These sort of issues can be really troubling can cause a lot of shame when using your English name. When using English names, you may feel like you're hiding
+                something from others by not telling them your "real" name, but again, it is important to remember that both names are your real name.
+                <br />
+                <br></br>
+                It is highly important to find off a group you connect with and will accept you for who you are without judgment of your name. Good friends and good communities
+                will help you feel more comfortable with your name and identity. It's a good idea to encourage others as well and build the community you would like to have amongst your friends.
+            </p>
+            <h3>6. Learning to accept your name</h3>
+            <p>
+                Names are an important part of your identity. Whether you have one of them or two of them, or potentially even more, 
+                they are all you. All the names you've ever had are a part of you and you are not lying to anyone when you introduce 
+                them with one name instead of another. Ultimately it is up to you to decide what you want other people to call you 
+                and you are allowed to always choose a preferred name.
+                <br />
+                <br></br>  
+                An important thing to acknowledge is that people do have preferred names. In schools, workplace, with friends and 
+                even with family, you are allowed to set the name you would like to be called. While it may at times bring you shame 
+                choosing a preferred name over a legal name, realize that many people do create preferred names for themselves and 
+                many forms now have options for people to enter in their preferred names. 
+ 
+            </p>
             <h2>Topic 2: Lunch</h2>
             <p>
                 Another impactful topic for many, lunch can be a very concerning  time. 
