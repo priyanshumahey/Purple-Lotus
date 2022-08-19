@@ -6,3 +6,8 @@ Purple Lotus is a project created to help with mental well being of the Asian Ca
 Visit the deployed site here:
 
 https://purple-lotus.netlify.app/
+
+
+
+
+Will be in development soon! To learn more, please email me at pmahey@student.ubc.ca.
