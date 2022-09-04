@@ -9,5 +9,4 @@ https://purple-lotus.netlify.app/
 
 
 
-
-Will be in development soon! To learn more, please email me at pmahey@student.ubc.ca.
+Will be in development soon! To learn more, please email us at pmahey@student.ubc.ca or xcher@student.ubc.ca.
